@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://chasedev7.github.io/testimonials-grid-section-main](https://your-live-site-url.com)
+- Live Site URL: [https://chasedev7.github.io/testimonials-grid-section-main](https://chasedev7.github.io/testimonials-grid-section-main)
 
 ## My process
 
